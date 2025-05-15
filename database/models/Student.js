@@ -47,7 +47,7 @@ const Student = db.define("student", {
   imageUrl: {
     type: Sequelize.STRING,
     allowNull: true,
-    defaultValue: 'https://www.cnu.org/sites/default/files/styles/public_square_feature_image/public/BostonCollege1.jpg'
+    defaultValue: 'https://i.pinimg.com/736x/4b/90/5b/4b905b1342b5635310923fd10319c265.jpg'
   },
 
 
